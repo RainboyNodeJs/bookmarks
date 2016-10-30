@@ -1,0 +1,21 @@
+{
+  "name": "bookmarks-rainboy",
+  "version": "1.0.0",
+  "description": "bookmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookmarks"
+  ],
+  "author": "Rainboy",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "lodash": "^4.16.4",
+    "lowdb": "^0.14.0",
+    "moment": "^2.15.2",
+    "underscore-db": "^0.12.0"
+  }
+}
